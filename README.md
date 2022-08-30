@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+
+## Languages and Tools
+
+## Socials
 
 <!--
 **Frooge/Frooge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
