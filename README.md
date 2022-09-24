@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋, I'm Jade Andrie Rosales</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
 
-<p align="justified" margin="0 30px">I'm a 3rd year computer science student from the Univesity of San Carlos and an aspiring full-stack developer. I started my programming journey when I watched a documentary on how my favorite video games were made. It piqued my interest and started to learn python but soon realized that there are many things that you can learn and do with programming. That is how I got into this programming rabbit hole and found my passion in this field. As of now, I'm currently learning web development mainly with ReactJs.</p>
+<p align="center">I'm a 3rd year computer science student from the Univesity of San Carlos and an aspiring full-stack developer. I started my programming journey when I watched a documentary on how my favorite video games were made. It piqued my interest and started to learn python but soon realized that there are many things that you can learn and do with programming. That is how I got into this programming rabbit hole and found my passion in this field. As of now, I'm currently learning web development mainly with ReactJs.</p>
 
 <hr>
 
