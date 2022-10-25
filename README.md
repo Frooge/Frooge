@@ -20,4 +20,4 @@
 <a href="https://fb.com/jade rosales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jade rosales" height="30" width="40" /></a>
 </p>
 <p align="center">- 📫 How to reach me **jaantaros@gmail.com**</p>
-<p align="center">Portfolio Website: <a href="https://frooge.github.io/my-portfolio/" target="_blank">link</a></p>
+<p align="center">Portfolio Website: <a href="https://frooge.github.io/my-portfolio/" target="_blank" rel="noreferrer">link</a></p>
