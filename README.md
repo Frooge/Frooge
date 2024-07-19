@@ -12,10 +12,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frooge&show_icons=true&theme=dark&locale=en&layout=compact" alt="frooge" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frooge&theme=dark" alt="frooge" /></p>
 
-<h3 align="center">My Socials:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/jade andrie rosales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jade andrie rosales" height="30" width="40" /></a>
-<a href="https://fb.com/jade rosales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jade rosales" height="30" width="40" /></a>
-</p>
 <p align="center">- 📫 How to reach me **jaantaros@gmail.com**</p>
-<p align="center"><a href="https://frooge.github.io/my-portfolio/" target="_blank" rel="noreferrer">Portfolio website</a></p>
